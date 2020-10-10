@@ -8,8 +8,8 @@ export default function Header() {
     }}>
       <div className="row banner">
         <div className="banner-text">
-          <h1>I'm Nick,</h1>
-          <h3>My specialties include fullstack web development and game dev/design with Unity. </h3>
+          <h1>I'm Seyi,</h1>
+          <h3>My specialties include software engineering and fullstack web development. </h3>
         </div>
       </div>
     </section >

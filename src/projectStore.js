@@ -99,29 +99,6 @@ const projects = [
     liveSite: 'https://codificacion.vercel.app/'
   },
   {
-    title: 'Robo Shotgun Birthday',
-    subTitle: 'Unity',
-    techs: [
-      'C#',
-      'Unity',
-      'PUN2',
-      'JavaScript',
-      'HTML5',
-      'CSS3',
-      'Vercel'
-    ],
-    description: 'A proof on concept for a top down shooter that will soon be multiplayer. This game is all about precise input to make for an adrenaline pumping twitch reaction game. It is designed with visuals that tell the player the status of their character which reduces the amount of necessary UI. Currently featuring a complex decision making AI to emulate other players',
-    imagePaths: [
-      'images/portfolio/robo-shotgun-birthday/main.jpeg',
-      'https://media.giphy.com/media/w68Ey3eYioVJLlFVFp/giphy.gif',
-      'images/portfolio/robo-shotgun-birthday/gameplay1.png',
-      'images/portfolio/robo-shotgun-birthday/gameplay2.png',
-      'images/portfolio/robo-shotgun-birthday/gameplay3.png',
-    ],
-    gitHubLink: 'https://github.com/nickthorpe71/shotgun-birthday',
-    liveSite: 'https://roboshotgunbirthday.vercel.app/'
-  },
-  {
     title: 'This Portfolio',
     subTitle: 'React',
     techs: [

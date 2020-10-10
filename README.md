@@ -15,7 +15,7 @@ A single page application build to display my work and provide a point of contac
 ---
 
 ## Contact
-
+- Github - https://github.com/SeyiAriyo
 - LinkedIn - https://www.linkedin.com/in/oluwaseyi-ariyo/
 - Instagram - https://www.instagram.com/seyi_ari/
-- Website - https://nickthorpe.vercel.app/contact
+- Website - 

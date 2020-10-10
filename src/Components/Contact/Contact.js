@@ -104,10 +104,10 @@ export default function Contact(props) {
         <div className="column">
           <h4>Address and Phone</h4>
           <ul className="address">
-            <li>Nick Thorpe</li>
-            <li>Chicago, IL</li>
-            <li>(347)583-3555</li>
-            <li>nickthorpe71@gmail.com</li>
+            <li>Oluwaseyi Ariyo</li>
+            <li>College Park, MD</li>
+            <li>(240)713-4017</li>
+            <li>ariyoseyiariyo@gmail.com</li>
           </ul>
         </div>
       </div>
