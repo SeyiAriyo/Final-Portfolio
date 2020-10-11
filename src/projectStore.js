@@ -51,8 +51,8 @@ const projects = [
       'images/portfolio/recipes/Recipesview.png',
       'images/portfolio/recipes/addRecipe.png',
     ],
-    gitHubLink: 'https://github.com/nickthorpe71/a-training-notebook-II-client',
-    liveSite: 'https://atrainingnotebook.vercel.app/'
+    gitHubLink: 'https://github.com/SeyiAriyo/capstone-client',
+    liveSite: 'https://capstone-client.seyiariyo.vercel.app'
   },
   {
     title: 'French Moi',
