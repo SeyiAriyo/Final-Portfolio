@@ -18,7 +18,7 @@ const projects = [
       'SineWave.js',
       'Enzyme',
     ],
-    description: 'Binaural generates binaural beats and audio visualizations to help users achieve altered states of consciousness.',
+    description: 'Binaural generates binaural beats and audio visualizations to help users achieve altered states of consciousness. Users can choose different binaural beats depending on the mind-altering affects that they want to undergo.',
     imagePaths: [
       'images/portfolio/binaural/binaural-screenshot-home.png',
       'images/portfolio/binaural/binaural-screenshot-beat-player.png',
@@ -44,7 +44,7 @@ const projects = [
       'Mocha',
       'Enzyme',
     ],
-    description: 'The recipes app is a personal cooking assistant. You can add your favorite and current ingredients in your liquor cabinet to your digital cabinet, and the app will show you what recipes you can make with your ingredients and how! You will also be able to search for recipes by ingredient type and make a shortlist of your favorite ones to try later.',
+    description: 'The recipes app is a personal cooking assistant. You can add your favorite and current ingredients in your real-life cabinet to your digital cabinet, and the app will show you what recipes you can make with your ingredients and how to make them! You will also be able to search for recipes by ingredient type and make a shortlist of your favorite ones to try later.',
     imagePaths: [
       'images/portfolio/recipes/login.png',
       'images/portfolio/recipes/recipes.png',

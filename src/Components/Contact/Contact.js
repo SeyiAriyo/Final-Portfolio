@@ -8,6 +8,7 @@ export default function Contact(props) {
   const [subject, setSubject] = useState('');
   const [message, setMessage] = useState('');
   const [buttonText, setButtonText] = useState('Send Message');
+  // eslint-disable-next-line no-unused-vars
   const [sent, setSentBool] = useState(false);
 
 
