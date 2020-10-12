@@ -12,8 +12,8 @@ export default function About(props) {
           <h2>About Me</h2>
           <p>What started as a desire to solve computer-based puzzles evolved into a passion for building software that is engaging and innovative.
            I am a computer science student at the University of Maryland College Park with a focus on software engineering.
-            I attended the Thinkful software engineering bootcamp, committing 60 hours a week for five months to expand my full-stack web development skills.
-             My Ultimate goal is to find a talented team that I can learn from and work with to deliver amazing products. Outside of programming I love biking, rock climbing, and photography.
+            I attended the Thinkful software engineering Bootcamp, committing 60 hours a week for five months to expand my full-stack web development skills.
+             My ultimate goal is to find a talented team that I can learn from and work with to deliver amazing products. Outside of programming, I love biking, rock climbing, and photography.
             </p>
           <div className="row">
             <div className="column contact-details">
