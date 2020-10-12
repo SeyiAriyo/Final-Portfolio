@@ -71,7 +71,7 @@ const projects = [
       'Mocha',
       'Enzyme',
     ],
-    description: 'An application to assist english speaking developers quickly learn key terms in French. Using spaced repetition the app presents the user with words and asks them for the translation. Providing an incorrect answer will push the word to the front of the queue, and a correct answer pushes it further back in the queue. An algorithm on the backend determines the new placement for each word.',
+    description: 'An application to assist English speaking developers quickly learn key terms in French. Using spaced repetition the app presents the user with words and asks them for the translation. Providing an incorrect answer will push the word to the front of the queue, and a correct answer pushes it further back in the queue. An algorithm on the backend determines the new placement for each word.',
     imagePaths: [
       'images/portfolio/frenchmoi/French Moi.png',
       'images/portfolio/frenchmoi/PastedGraphic3.png',
@@ -88,7 +88,7 @@ const projects = [
       'CSS',
       'Vercel',
       'Node.js',
-      'express',
+      'Express',
       'Heroku'
     ],
     description: 'Built to display my work and to provide an easy point of contact.',
