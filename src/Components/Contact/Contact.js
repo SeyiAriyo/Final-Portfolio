@@ -8,7 +8,6 @@ export default function Contact(props) {
   const [subject, setSubject] = useState('');
   const [message, setMessage] = useState('');
   const [buttonText, setButtonText] = useState('Send Message');
-  // eslint-disable-next-line no-unused-vars
   const [sent, setSentBool] = useState(false);
 
 
@@ -49,7 +48,9 @@ export default function Contact(props) {
   }
 
   return (
-    <section id="contact">
+    <section id="contact" style={{
+      background: "url('images/body.jpg')"
+    }}>
       <div className="row section-head">
         <div className="column">
         </div>

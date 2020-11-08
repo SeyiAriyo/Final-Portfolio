@@ -12,7 +12,7 @@
 #contact h1 {
   text-transform: uppercase;
   letter-spacing: 3px;
-  color: #EBEEEE;
+  color: #636363;
   margin-bottom: 6px;
 }
 #contact h1 span { display: none; }
@@ -24,7 +24,7 @@
   line-height: 72px;
   text-align: left;
   float: left;
-  color: #ebeeee;
+  color: #636363;
 }
 
 #contact .section-body{
@@ -36,7 +36,7 @@
 
 #contact h4 {
   font: 16px/24px 'Raleway-bold', sans-serif;
-  color: #EBEEEE;
+  color: #636363;
   margin-bottom: 6px;
 }
 
@@ -63,7 +63,7 @@
 }
 
 #message-warning { color: #D72828; }
-#message-success { color: #ffffff; }
+#message-success { color: #636363; }
 
 #message-warning i,
 #message-success i {
@@ -79,7 +79,7 @@
 #contact label {
   font: 15px/24px 'Raleway-bold', sans-serif;
   margin: 12px 0;
-  color: #EBEEEE;
+  color: #636363;
   float: left;
   width: 26%;
 }
