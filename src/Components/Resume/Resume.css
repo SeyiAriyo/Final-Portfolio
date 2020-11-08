@@ -7,7 +7,7 @@
 
 
 #resume h1 {
-  font: 18px/24px 'opensans-bold', sans-serif;
+  font: 18px/24px 'Raleway-bold', sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
@@ -16,7 +16,7 @@
   padding-bottom: 6px;
 }
 #resume h3 {
-  font: 25px/30px 'opensans-bold', sans-serif;
+  font: 25px/30px 'Raleway-bold', sans-serif;
 }
 #resume .info {
   font: 16px/24px 'librebaskerville-italic', serif;
@@ -29,7 +29,7 @@
   margin-left: 5px;
 }
 #resume .date {
-  font: 15px/24px 'opensans-regular', sans-serif;
+  font: 15px/24px 'Raleway-regular', sans-serif;
   margin-top: 6px;
 }
 
