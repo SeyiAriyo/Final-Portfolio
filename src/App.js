@@ -12,27 +12,11 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Header />
-        <Route
-          exact
-          path="/"
-          component={Home} />
-        <Route
-          exact
-          path="/about"
-          component={About} />
-        <Route
-          exact
-          path="/resume"
-          component={Resume} />
-        <Route
-          exact
-          path="/portfolio"
-          component={Portfolio} />
-        <Route
-          exact
-          path="/contact"
-          component={ContactUs} />
+        <Home />
+        <About />
+        <Resume />
+        <Portfolio />
+        <ContactUs />
         <Footer />
       </div>
     );
